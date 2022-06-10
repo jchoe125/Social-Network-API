@@ -192,5 +192,5 @@ SOFTWARE.
 
 # Submission
 * GitHub: https://github.com/jchoe125/Social-Network-API
-* Walkthrough Video: 
+* Walkthrough [Video](https://drive.google.com/file/d/1XsjwtZ4NPOD8bRqDS-JaEBEQTVNGhbJ_/view)
 
