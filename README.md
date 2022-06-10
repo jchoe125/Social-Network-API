@@ -154,7 +154,9 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 ## Demo
 
-Check out this [video](https://drive.google.com/file/d/1XsjwtZ4NPOD8bRqDS-JaEBEQTVNGhbJ_/view) for a demonstration.
+Check out the video demo below for a demonstration:
+
+![video](./assets/Video%20Walkthrough.gif)
 
 ---
 
