@@ -162,7 +162,7 @@ Check out this [video](https://drive.google.com/file/d/1XsjwtZ4NPOD8bRqDS-JaEBEQ
 
 If you have any questions, feel free to contact me via GitHub or email.
 
-[Github](https://github.com/jchoe125) | [email](joechoe125@gmail.com) | 
+[Github](https://github.com/jchoe125) | [Email](joechoe125@gmail.com) | 
 [Repository](https://github.com/jchoe125/Social-Network-API) |
 
 ---
