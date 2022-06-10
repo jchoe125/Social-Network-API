@@ -16,7 +16,7 @@ SO THAT my website can handle large amounts of unstructured data
 This API requires the user to install Node.js and MongoDB in order to use the application after cloning the repo. Additionally, the user must run the command `npm install` to install the required dependencies. Once the dependencies have been installed, run the command `npm run start` to start the application.
 
 
-### Models
+# Models
 
 **User**:
 
@@ -152,12 +152,18 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 ---
 
+## Demo
+
+Check out this [video](https://drive.google.com/file/d/1XsjwtZ4NPOD8bRqDS-JaEBEQTVNGhbJ_/view) for a demonstration.
+
+---
+
 ## Contribution
 
 If you have any questions, feel free to contact me via GitHub or email.
 
 [Github](https://github.com/jchoe125) | [email](joechoe125@gmail.com) | 
-[Repository](https://github.com/jchoe125/PWA-Text-Editor) | [Deployed Website](https://jcsbpwatexteditor.herokuapp.com/)
+[Repository](https://github.com/jchoe125/Social-Network-API) |
 
 ---
 ## License
